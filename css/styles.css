@@ -84,7 +84,7 @@ footer {
     display: inline-block;
     max-width: 40%;
     margin-left: 40px;
-    text-align: left;
+    text-align: justify;
 }
 
 .description p, .description h3{
@@ -110,5 +110,6 @@ footer {
         text-align: center;
         margin: auto;
         display: block;
+        max-width: 80%;
     }
 }
